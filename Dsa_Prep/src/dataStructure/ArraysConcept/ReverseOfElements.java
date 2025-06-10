@@ -6,7 +6,7 @@ public class ReverseOfElements {
 
 	public static void main(String[] args) {
 		/*
-		 * i this code block a Array is reversed and stored in a a diffternt Array and
+		 * In this code block a Array is reversed and stored in a a different  Array and
 		 * then printed
 		 */
 		
